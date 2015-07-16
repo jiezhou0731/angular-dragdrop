@@ -1,3 +1,3 @@
 FORK of the repo at
 
-https://github.com/angular-dragdrop/angular-dragdrop
+http://angular-dragdrop.github.io/angular-dragdrop/
